@@ -3,4 +3,4 @@
 ![Netflix](public/NF1.png)
 ![Netflix](public/NF2.png)
 ![Netflix](public/NF3.png)
-![Netflix](public/Netflix%20.mp4)
+![Netflix](public/Netflix%20Video.mp4)
