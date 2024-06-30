@@ -1,1 +1,5 @@
 ![Netflix](public/NF%20Sign.png)
+![Netflix](public/NF%20Login.png)
+![Netflix](public/NF1.png)
+![Netflix](public/NF3.png)
+![Netflix](public/NF3.png)
