@@ -14,7 +14,7 @@ const Player = () => {
     kind: ""
   });
 
-  const url = `https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=${videoId}&key=AIzaSyDnoG5aQybGNu33Ll2J_Y8jim4d-ZmFPrg`;
+  const url = `https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=${videoId}&key=AIzaSyCPwuN5bV8e8iC_FqbxIu88LxGR7bl4XZo`;
 
   useEffect(() => {
     const fetchData = async () => {
