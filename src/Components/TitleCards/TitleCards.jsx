@@ -6,7 +6,7 @@ const TitleCards = ({ title }) => {
   const [apiData, setApiData] = useState([]);
   const cardsRef = useRef();
 
-  const url = 'https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&chart=mostPopular&maxResults=50&regionCode=US&key=AIzaSyDnoG5aQybGNu33Ll2J_Y8jim4d-ZmFPrg';
+  const url = 'https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&chart=mostPopular&maxResults=50&regionCode=US&key=AIzaSyCPwuN5bV8e8iC_FqbxIu88LxGR7bl4XZo';
 
   const handleWheel = (event) => {
     event.preventDefault();
